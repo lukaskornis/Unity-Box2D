@@ -1,6 +1,6 @@
 # Unity Box2D experiments
 
-### Hill Climb racing stly terrain
+### Hill Climb racing style terrain generation and car with a character
 
 <img width="400" alt="image" src="https://github.com/lukaskornis/Unity-Box2D/assets/39262485/33604644-c10c-4a2a-9cb9-269a65d84c3d">
 
